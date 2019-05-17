@@ -1,0 +1,27 @@
+.todo-item {
+  align-items: center;
+  list-style-type: none;
+  margin: 10px 0;
+  display: flex;
+  padding: 2px;
+}
+
+.complete {
+  opacity: .5;
+}
+
+.strikedOut {
+  text-decoration: line-through;
+}
+
+.todo-checkbox {
+  //flex: 1;
+}
+
+.todo-task {
+  //flex: 6;
+}
+
+.todo-remove {
+  //flex: 1
+}
